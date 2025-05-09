@@ -1,0 +1,52 @@
+# Ignore Visual Studio temporary files, build results, and user-specific files
+.vs
+.user
+.suo
+.userosscache
+.sln.docstates
+
+# Build results
+bin
+obj
+
+# NuGet packages
+.nupkg
+.snupkg
+packages
+# Uncomment if you want to ignore package-locking
+# package-lock.json
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Visual Studio Code settings
+.vscode
+
+# Resharper
+_ReSharper
+.DotSettings.user
+
+# Rider
+.idea
+
+# Logs
+.log
+
+# Other common artifacts
+.dbmdl
+.bak
+.backup
+.orig
+.tmp
+.cache
+.vsidx
+.pidb
+.sdf
+.sln.ide
+
+# Entity Framework Core Migrations Snapshot
+Snapshot.cs

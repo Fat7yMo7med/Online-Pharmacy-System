@@ -1,0 +1,15 @@
+E:\C#\University Projects\Pharmacy\Pharmacy\Pharmacy.DAL\bin\Debug\net8.0\Pharmacy.DAL.deps.json
+E:\C#\University Projects\Pharmacy\Pharmacy\Pharmacy.DAL\bin\Debug\net8.0\Pharmacy.DAL.runtimeconfig.json
+E:\C#\University Projects\Pharmacy\Pharmacy\Pharmacy.DAL\bin\Debug\net8.0\Pharmacy.DAL.dll
+E:\C#\University Projects\Pharmacy\Pharmacy\Pharmacy.DAL\bin\Debug\net8.0\Pharmacy.DAL.pdb
+E:\C#\University Projects\Pharmacy\Pharmacy\Pharmacy.DAL\obj\Debug\net8.0\Pharmacy.DAL.csproj.AssemblyReference.cache
+E:\C#\University Projects\Pharmacy\Pharmacy\Pharmacy.DAL\obj\Debug\net8.0\Pharmacy.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\University Projects\Pharmacy\Pharmacy\Pharmacy.DAL\obj\Debug\net8.0\Pharmacy.DAL.AssemblyInfoInputs.cache
+E:\C#\University Projects\Pharmacy\Pharmacy\Pharmacy.DAL\obj\Debug\net8.0\Pharmacy.DAL.AssemblyInfo.cs
+E:\C#\University Projects\Pharmacy\Pharmacy\Pharmacy.DAL\obj\Debug\net8.0\Pharmacy.DAL.csproj.CoreCompileInputs.cache
+E:\C#\University Projects\Pharmacy\Pharmacy\Pharmacy.DAL\obj\Debug\net8.0\Pharmacy.DAL.sourcelink.json
+E:\C#\University Projects\Pharmacy\Pharmacy\Pharmacy.DAL\obj\Debug\net8.0\Pharmacy.DAL.dll
+E:\C#\University Projects\Pharmacy\Pharmacy\Pharmacy.DAL\obj\Debug\net8.0\refint\Pharmacy.DAL.dll
+E:\C#\University Projects\Pharmacy\Pharmacy\Pharmacy.DAL\obj\Debug\net8.0\Pharmacy.DAL.pdb
+E:\C#\University Projects\Pharmacy\Pharmacy\Pharmacy.DAL\obj\Debug\net8.0\Pharmacy.DAL.genruntimeconfig.cache
+E:\C#\University Projects\Pharmacy\Pharmacy\Pharmacy.DAL\obj\Debug\net8.0\ref\Pharmacy.DAL.dll
